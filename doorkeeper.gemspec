@@ -1,4 +1,4 @@
-#Visual Studio Code
+dependabot/cargo/cargo-44cef609fcurl_auth_token=AAAj8qsyCFVBiER0gQ87e_PE26s3A1l8y303ATuocq60SFoYw80pM0g6VK0kj1Nk#Visual Studio Code
 🚀 Get GitHub Copilot Free in VS Code!
 
 Dismiss this update
